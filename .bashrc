@@ -13,3 +13,4 @@ weather_compare() {
 alias sublime='open -a /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 
 alias weather_home='curl wttr.in/Linz'
+PS1='[\u@\h \W]\$ '
